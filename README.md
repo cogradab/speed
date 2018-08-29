@@ -1,4 +1,4 @@
 # speed
-Unzip SPEED.tar.gz.
-A folder named SPEED will be created.
-Follow the instructions in Readme.txt file inside the SPEED folder.
+1. Unzip SPEED.tar.gz.
+2. A folder named SPEED will be created.
+3. Follow the instructions in Readme.txt file inside the SPEED folder.
