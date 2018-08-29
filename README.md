@@ -1,5 +1,5 @@
 # speed
-Enable the DS3231 RTC (RealTime Time Clock):
+Enable the DS3231 RTC (Real Time Clock):
 1. Append the modules file to /etc/modules using the command 'sudo cat modules >> /etc/modules'
 2. Copy config.txt to /boot/config.txt. This will overwrite the existing config.txt. If this is a problem, you will nee$
 3. Open the terminal and run the following commands:
